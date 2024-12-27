@@ -1,1 +1,3 @@
 # 🏠 Airbnb Market Analysis
+
+We analyzed the Airbnb data from Big Bear and Joshua Tree, California, aiming to optimize Airbnb hosts' occupancy rates and forecast future revenue and occupancy. We examined key market trends and listing characteristics and we identified factors influencing rental prices through regression models (Support Vector Machines, Random Forests, XGBoost). Using time series forecasting (Facebook Prophet, ARMA, ARIMA, SARIMA), we predicted revenue and occupancy rates. This analysis equips Airbnb hosts with data-driven insights to enhance listing performance and capitalize on market opportunities.
